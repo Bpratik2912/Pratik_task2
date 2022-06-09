@@ -1,0 +1,292 @@
+.image1{
+    width: 700px;
+}
+.back{
+  background-color: white;
+  width: 100%;
+  padding: 40px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body{
+    
+    height: 100px;
+    width: 100%;
+}  
+.services-box{
+    background-color:rgb(241, 176, 56);   
+    width: 30%;
+    border-radius: 40px;
+} 
+.services {
+  display: flex;
+  justify-content: space-evenly;
+}
+.submit1 {
+  background-color: darkgrey;
+  border: gray;
+  padding: 15px;
+  border-radius: 28%;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  color: white;
+}
+.main-content
+{
+  display:flex;
+  justify-content: space-between;
+}
+.text {
+  background-color: rgb(238, 228, 214);
+  font-size: 20px;
+  padding: 10%;
+}
+.page2 {
+  background-image: url(../pask2_images/bnbn-min.jpg);
+  /* background-color: red; */
+  min-height: 993px;
+  position: relative;
+}
+.page3 {
+  background-image: url(../pask2_images/happy-young-asian-businessmen-businesswomen-meeting-brainstorming-ideas.jpg);
+  min-height: 676px;
+  min-width: 600px;
+
+  /* background-color: red; */
+  
+  position: relative;
+}
+.develop {
+  background-color: white;
+  border-radius: 20px;
+  /* padding-right: 50%; */
+  width: 23%;
+  padding: 0px 65px;
+  text-align: left;
+  font-size: 22px;
+  /* margin-left: 900px; */
+  /* margin-bottom: 200px; */
+  position: relative;
+  position: absolute;
+  right: 12%;
+  top: 36%;
+}
+.image{padding-top: 2cm;
+  padding-bottom: 2cm;
+  padding-left: 300px;
+  height: 700px;
+  width: 600px;
+  border-radius: 20%;
+}
+.main-content {
+  display: flex;
+  justify-content: flex-start;
+}
+form{
+  padding-top: 3cm;
+  padding-left: 2cm;
+ font-size: 130%;
+ border: 2px solid white;
+ background-color: white;
+} 
+.background{
+  background-image: linear-gradient(90deg,orange 50%, white 50%);
+} 
+input[type=text1],select{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  background-color: gainsboro;
+  border: 1px solidrgb(167, 125, 125);
+  border-radius: 4px;
+  box-sizing: content-box;
+}
+input[type=text2],select{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  background-color: gainsboro;
+  border: 1px solidrgb(169, 121, 121);
+  border-radius: 4px;
+  box-sizing: content-box;
+}
+input[type=text3],select{
+  width: 90%;
+  padding: 12px 15px;
+  margin: 8px 0;
+  display: inline-block;
+  background-color: gainsboro;
+  border: 1px solidrgb(174, 125, 125);
+  border-radius: 4px;
+  box-sizing: content-box ;
+}
+.body30{
+  background-color: black;
+  font-size: medium;
+  color: white;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.back2 img {
+  width: 33%;
+}
+.body9{
+  background-image: linear-gradient(180deg,orange 50%, white 50%);
+}
+.services-box1{
+  background-color: rgb(241, 176, 56);
+  width: 100%;
+  text-align: center;
+  border-radius: 40px;
+  margin: 99px -58px 598px -10px;
+} 
+.page2 {
+  background-image: url(../pask2_images/bnbn-min.jpg);
+  /* background-color: red; */
+  min-height: 993px;
+  position: relative;
+}
+.grow{
+background-color: rgb(241, 176, 56);
+}
+.body3 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  margin: 121px 709px 381px 233px;
+}
+.submit1 {
+    background-color: #928989;
+    border: #2d2c2c;
+    padding: 15px;
+    width: 32%;
+    border-radius: 32%;
+    font-size: 16px;
+    margin: -7px -2px;
+    cursor: pointer;
+    color: white;
+}
+.submit2 {
+  background-color: #928989;
+  border: #2d2c2c;
+  padding: 15px;
+  width: 52%;
+  border-radius: 32%;
+  font-size: 16px;
+  margin: -7px -2px;
+  cursor: pointer;
+  color: white;
+}
+.submit3{
+  background-color: #928989;
+  border: #2d2c2c;
+  padding: 15px;
+  width: 22%;
+  border-radius: 32%;
+  font-size: 16px;
+  margin: -7px -2px;
+  cursor: pointer;
+  color: white;
+}
+.submit4 {
+  background-color: #928989;
+  border: #2d2c2c;
+  padding: 15px;
+  width: 50%;
+  border-radius: 32%;
+  font-size: 16px;
+  margin: -7px -2px;
+  cursor: pointer;
+  color: white;
+}
+.submit5 {
+  background-color: #928989;
+  border: #2d2c2c;
+  padding: 15px;
+  width: 22%;
+  border-radius: 32%;
+  font-size: 16px;
+  margin: -7px -2px;
+  cursor: pointer;
+  color: white;
+}
+.submit6 {
+  background-color: #928989;
+  border: #2d2c2c;
+  padding: 15px;
+  width: 100%;
+  border-radius: 0%;
+  font-size: 16px;
+  margin: -7px -2px;
+  cursor: pointer;
+  color: white;
+}
+.backgroundee {
+  background-image: linear-gradient(180deg, white 50%,orange 50%);
+}
+.background3 {
+  background-image: linear-gradient(180deg, orange 50%,white 50%);
+}
+.body4 {
+  background-color: orange;
+  background-position: top;
+  border-radius: 20px;
+  font-size: medium;
+  color: black;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  padding: 8%;
+}
+.body5 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: 283px 0px 55px 609px;
+}
+.body6 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -305px 0px 0px 1071px;
+}
+.body11 {
+  /* background-color: aliceblue; */
+  font-size: medium;
+  width: 50%;
+  color: black;
+  margin: -608px -238px -125px 10px;
+}
+.body12 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -99px 3px 374px 258px;
+}
+.body13 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -378px 51px 150px -195px;
+}
+.body14 {
+  /* background-color: black; */
+  font-size: medium;
+  color: black;
+  margin: -250px 49px 7px 274px;
+}
+.body7 {
+  /* background-color: black; */
+  border-radius: 20px;
+  width: 44%;
+  /* background-image: linear-gradient(180deg,white 50%,orange 50%); */
+  margin: -435px 567px -400px 4px;
+}
